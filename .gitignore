@@ -4,3 +4,5 @@
 /notas.fls
 /notas.log
 /notas.synctex.gz
+*.aux
+*.toc
